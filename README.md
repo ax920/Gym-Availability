@@ -13,3 +13,7 @@ If it detects that there is an opening, it sends you a text message using the Tw
 - Text START to +18143245498 to start looking for availabilities. If there are availabilities, it will ping you every few second!
 - When you have found a time or no longer wish to have texts sent to you every few seconds, text STOP.
 - Get huge
+
+# In the works
+
+- Support for the coop
